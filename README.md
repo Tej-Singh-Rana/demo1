@@ -33,3 +33,7 @@ t3.PNG
 x2.PNG
 
 x3.PNG
+
+![CKA](../img/certified-kubernetes-administrator.png)
+
+
