@@ -1,6 +1,6 @@
 # demo1
 
-![Jenkins](../../images/jenkins-badge.png)
+![Jenkins](././images/jenkins-badge.png)
 
 RR.PNG
 
